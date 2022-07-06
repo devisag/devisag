@@ -12,7 +12,5 @@
  🖥️ isagestoso.vercel.app
 }
 
-<!---
-devisag/devisag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)
