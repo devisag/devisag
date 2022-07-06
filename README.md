@@ -4,7 +4,7 @@
 
 <h3>Actually</h3>
 
-- 👀 I'm Looking for my first opportunity in the IT world
+- 👀 I'm Looking for new opportunities in the IT world
 - 🌱 I’m currently working on personal projects with React | TypeScript | MongoDB 
 - How to reach me {
  📬 isagestosocd@gmail.com | migdqmc@gmail.com,
