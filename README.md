@@ -12,5 +12,4 @@
  🖥️ isagestoso.vercel.app
 }
 
-
-![Javascript]()
+JavaScript Badge React Badge Redux Badge TypeScript Badge HTML5 Badge CSS3 Badge Bootstrap Badge Node JS Badge Express JS Badge MongoDB Badge Mongoose Badge Typegoose Badge PostgreSQL Badge Sequelize Badge Heroku Badge Vercel Badge Git Badge
