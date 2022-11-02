@@ -7,7 +7,7 @@
 - 👀 I'm Looking for new opportunities in the IT world
 - 🌱 I’m currently working on personal projects with React | TypeScript | MongoDB 
 - How to reach me {
- 📬 isagestosocd@gmail.com | migdqmc@gmail.com,
+ 📬 migdqmc@gmail.com,
  📞 +54 9 1132140504,
  🖥️ isagestoso.vercel.app
 }
