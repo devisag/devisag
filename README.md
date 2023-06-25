@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Isabel Gestoso</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [an ecommerce of cups](morninbrew.com.ar)
+- 🌱 I’m currently working with Salamantra Management helping entrepraneurs to get their goals.
 
-- 🌱 I’m currently learning **Next.JS and Typescript and also play the guitar**
-
-- 👨‍💻 All of my projects are available at [isagestoso.vercel.app](isagestoso.vercel.app)
+- 👨‍💻 All of our projects are available at [SMT](salamantramanagement.com.ar)
 
 - 📫 How to reach me **migdqmc@gmail.com**
 
-- 📄 Know about my experiences [isagestoso.vercel.app/cv](isagestoso.vercel.app/cv)
-
-- ⚡ Fun fact **I recently adopted a puppy from whom I learn a lot**
+- ⚡ I am also entering the world of drawing, you can see something of what I do here
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
